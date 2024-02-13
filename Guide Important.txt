@@ -1,0 +1,17 @@
+All assets attached Fonts and Images, and also the Details schema 
+
+Main Color Code      :  #004A98 
+Second Color Code :   #5EB3E4
+content background : #F5F5F5
+Header Title Font Size : 38px;
+Header Title Color : #ffffff ;
+Content Title font size : 20px 
+Content body font size : 16px 
+Content Title Color : #404040
+Content body Color: #909090
+button bg color : #5EB3E4
+Footer text color + font size : #ffffff + 16px
+
+Also you can reach the all assets from figma link 
+https://www.figma.com/proto/t86onCdvgxT7Wxlse4Dtup/ServiceNow?page-id=33%3A14756&type=design&node-id=33-14757&viewport=874%2C290%2C1.12&t=ngoMIZQ6RKvKLF1K-1&scaling=min-zoom&mode=design
+
